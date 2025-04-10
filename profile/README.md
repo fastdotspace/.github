@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        fastflags.space
+        dotspace
       </h1>
       <br>
       <p>Source for our website</p>
